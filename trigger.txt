@@ -1,1 +1,1 @@
-openmmlab/mmdeploy:ubuntu20.04-cuda11.8-mmdeploy1.3.1 registry.cn-hangzhou.aliyuncs.com/pai_mirror/deploy_framework:v1.0
+nginx registry.cn-hangzhou.aliyuncs.com/pai_mirror/nginx:v1.0
